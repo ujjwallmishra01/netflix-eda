@@ -4,6 +4,10 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the Ne
 The aim is to understand Netflix’s content distribution, trends, and patterns across different attributes
 such as content type, genres, countries, and release years.
 
+
+## Project Live Preview:
+https://ujjwallmishra01.github.io/netflix-eda/
+
 ---
 
 ## 📂 Dataset Information
